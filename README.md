@@ -47,14 +47,13 @@ This project helps visualize **employee attrition** using an interactive dashboa
 | Purpose              | Tool            |
 |----------------------|-----------------|
 | Dashboard Creation   | Power BI        |
-| Data Handling        | Excel           |
 | Design               | Clean, modern layout with filters and charts |
 
 ---
 
 ## Dashboard Snapshot
 
-![HR Analytics Dashboard](Snapshot-HR%20Analytics.png)
+![HR Analytics Dashboard](https://github.com/Hamsinitr/HR-Dashboard/blob/main/Snapshot-HR%20Analytics.png)
 
 ---
 
