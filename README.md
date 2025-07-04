@@ -42,7 +42,7 @@ This project helps visualize **employee attrition** using an interactive dashboa
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Purpose              | Tool            |
 |----------------------|-----------------|
@@ -57,7 +57,7 @@ This project helps visualize **employee attrition** using an interactive dashboa
 
 ---
 
-## Why I Built This
+## Purpose
 
 To create a clean, data-driven visual that makes HR insights easy to understand.  
 This dashboard is a **powerful tool** for:
